@@ -1,1 +1,1 @@
-# JAVA
+# School assignment
